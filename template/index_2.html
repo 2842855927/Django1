@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>模板标签</title>
+</head>
+<body>
+    {%if name == 'python'%}
+        <h1>这是一个python页面</h1>
+    {%elif name == 'django' %}
+        <h2>这是一个django页面</h2>
+    {%else %}
+        <h3>这是名字{{ name }}</h3>
+    {%endif %}
+</body>
+</html>

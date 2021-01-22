@@ -1,0 +1,8 @@
+{% extends 'base1.html' %}
+{% block title %}标签{% endblock %}
+{% block content %}
+    这是通过block.super继承父类的:{{ block.super }}
+{% endblock %}<br>
+{% block demo %}
+        这是引用其他模板内容的: {% include 'ss_1.html' %}
+{% endblock %}

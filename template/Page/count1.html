@@ -1,0 +1,16 @@
+{% load common_extras %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>自定义过滤器</title>
+</head>
+<body>
+    字符串替换:{{ str1|mycut:"a" }}<br>
+    字符串转化为大写:{{ str2|mysupper }}<br>
+    字符串转化为小写:{{ str3|mylower }}<br>
+    时间日期&emsp;&emsp;&emsp;&emsp;:{% gettime '%Y年%m月%d日 %H:%M:%S' %}<br>
+    {% show_results %}
+
+</body>
+</html>

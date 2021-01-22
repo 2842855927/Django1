@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="874ad797-f439-48f4-8f38-dc379bd852d3" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="QMDownload" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Unnamed" pattern="" />
+  </component>
+  <component name="ProjectId" id="1gMNYS6Ce0TOk6Wc3HYBisUktMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PyCharm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\QMDownload" />
+      <recent name="D:\QMDownload\template" />
+      <recent name="D:\QMDownload\爬虫高级\JS渗透.2" />
+      <recent name="D:\QMDownload\认识爬虫\scrapy_redis2\测试二" />
+      <recent name="D:\QMDownload\认识爬虫\scrapy_redis2\测试一" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\QMDownload" />
+      <recent name="D:\QMDownload\爬虫高级\Appium自动化工具" />
+      <recent name="D:\QMDownload\爬虫高级\8.滑动验证码" />
+      <recent name="D:\QMDownload\爬虫高级\7.点触验证码\py" />
+      <recent name="D:\QMDownload\爬虫高级\7.点触验证码" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="Test: " type="DjangoTestsConfigurationType" temporary="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="news_detail.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/QMDownload/template/news/news_detail.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="对称加密" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/1.加密解密" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/1.加密解密/对称加密.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多折线图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/数据可视化工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/数据可视化工具/多折线图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="柱状图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/数据可视化工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/数据可视化工具/柱状图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="线程的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonpy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonpy/线程的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字符编码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/1.加密解密" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/1.加密解密/字符编码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试比对" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/JS渗透.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/JS渗透.2/测试比对.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="夜神浏览器连接" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/Appium自动化工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/Appium自动化工具/夜神浏览器连接.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网易云音乐评论抓取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/JS渗透3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/JS渗透3/网易云音乐评论抓取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试比对" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/JS渗透.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/JS渗透.2/测试比对.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="华为手机连接" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/数据可视化工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\QMDownload\爬虫高级\Appium自动化工具\华为手机连接.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试比对" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/JS渗透.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/JS渗透.2/测试比对.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="爬取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/认识爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/认识爬虫/爬取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="潭州教育" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/Appium自动化工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/Appium自动化工具/潭州教育.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="图片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫练习/图片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="去重" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫高级/Appium自动化工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫高级/Appium自动化工具/去重.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 192.168.47.168:8081" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/look" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/look/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tanzhong" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tanzhong/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QMDownload" type="Python.DjangoServer" factoryName="Django server">
+      <module name="QMDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.QMDownload" />
+      <item itemvalue="Django tests.Test: " />
+      <item itemvalue="JavaScript Debug.news_detail.html" />
+      <item itemvalue="Python.对称加密" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.settings" />
+      <item itemvalue="Python.models" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="JavaScript Debug.news_detail.html" />
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Django tests.Test: " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@127.0.0.1" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@127.0.0.1" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4e7ab003" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="874ad797-f439-48f4-8f38-dc379bd852d3" name="默认更改列表" comment="" />
+      <created>1597920549876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597920549876</updated>
+      <workItem from="1597920558280" duration="1545000" />
+      <workItem from="1598270788845" duration="44000" />
+      <workItem from="1598531259734" duration="37000" />
+      <workItem from="1598609470247" duration="1388000" />
+      <workItem from="1598655269027" duration="8124000" />
+      <workItem from="1598694205398" duration="4295000" />
+      <workItem from="1598701893091" duration="2972000" />
+      <workItem from="1598773855867" duration="2908000" />
+      <workItem from="1598776813406" duration="14449000" />
+      <workItem from="1598796898450" duration="1546000" />
+      <workItem from="1599029608697" duration="11534000" />
+      <workItem from="1599261525059" duration="7493000" />
+      <workItem from="1599315296649" duration="5884000" />
+      <workItem from="1599487295283" duration="1808000" />
+      <workItem from="1599558494876" duration="6700000" />
+      <workItem from="1599876490042" duration="54008000" />
+      <workItem from="1600187220086" duration="11057000" />
+      <workItem from="1600217085294" duration="894000" />
+      <workItem from="1600218426065" duration="30808000" />
+      <workItem from="1600320673950" duration="108000" />
+      <workItem from="1600322872051" duration="251000" />
+      <workItem from="1600326166431" duration="289000" />
+      <workItem from="1600328760163" duration="25000" />
+      <workItem from="1600333048423" duration="1063000" />
+      <workItem from="1600354615996" duration="1033000" />
+      <workItem from="1600355686461" duration="219000" />
+      <workItem from="1600596093827" duration="4474000" />
+      <workItem from="1600785144172" duration="25361000" />
+      <workItem from="1600947191969" duration="16000" />
+      <workItem from="1600947245016" duration="3000" />
+      <workItem from="1600959658544" duration="7451000" />
+      <workItem from="1601026991846" duration="252000" />
+      <workItem from="1601034467409" duration="2571000" />
+      <workItem from="1601037962336" duration="7656000" />
+      <workItem from="1601078268624" duration="64734000" />
+      <workItem from="1601633125038" duration="4533000" />
+      <workItem from="1601817636088" duration="7723000" />
+      <workItem from="1602046383547" duration="1594000" />
+      <workItem from="1602048375395" duration="2806000" />
+      <workItem from="1602055391929" duration="365000" />
+      <workItem from="1602067866059" duration="276000" />
+      <workItem from="1602071732213" duration="11224000" />
+      <workItem from="1602217057849" duration="10088000" />
+      <workItem from="1602258730941" duration="891000" />
+      <workItem from="1602300809511" duration="92413000" />
+      <workItem from="1602752978376" duration="76816000" />
+      <workItem from="1603152109907" duration="783000" />
+      <workItem from="1603203195238" duration="6188000" />
+      <workItem from="1603253949834" duration="11679000" />
+      <workItem from="1603266830735" duration="20272000" />
+      <workItem from="1603366817958" duration="2108000" />
+      <workItem from="1603458905872" duration="434000" />
+      <workItem from="1603459412044" duration="108000" />
+      <workItem from="1603538978432" duration="1794000" />
+      <workItem from="1603672271860" duration="44476000" />
+      <workItem from="1603891355833" duration="4547000" />
+      <workItem from="1604144778695" duration="2078000" />
+      <workItem from="1604189672495" duration="18014000" />
+      <workItem from="1604629572897" duration="43225000" />
+      <workItem from="1604836809930" duration="12000" />
+      <workItem from="1604836876747" duration="1483000" />
+      <workItem from="1604838742391" duration="360000" />
+      <workItem from="1604888191834" duration="52465000" />
+      <workItem from="1605409733897" duration="51209000" />
+      <workItem from="1605622862414" duration="129000" />
+      <workItem from="1605623029789" duration="30000" />
+      <workItem from="1605679306264" duration="17363000" />
+      <workItem from="1605752214261" duration="24454000" />
+      <workItem from="1605869001472" duration="1727000" />
+      <workItem from="1605879371583" duration="21500000" />
+      <workItem from="1605958084444" duration="34166000" />
+      <workItem from="1606355566591" duration="16904000" />
+      <workItem from="1606402264481" duration="779000" />
+      <workItem from="1606445613133" duration="15295000" />
+      <workItem from="1606478889909" duration="22299000" />
+      <workItem from="1606623700007" duration="18987000" />
+      <workItem from="1606701175473" duration="9596000" />
+      <workItem from="1606872462159" duration="14237000" />
+      <workItem from="1606895455089" duration="4537000" />
+      <workItem from="1606907433130" duration="53625000" />
+      <workItem from="1607128792706" duration="7811000" />
+      <workItem from="1607175098414" duration="37651000" />
+      <workItem from="1607269698517" duration="161000" />
+      <workItem from="1607392992300" duration="38735000" />
+      <workItem from="1607481697611" duration="25739000" />
+      <workItem from="1607576302212" duration="1935000" />
+      <workItem from="1607590638151" duration="704000" />
+      <workItem from="1607591369295" duration="8453000" />
+      <workItem from="1607697290919" duration="1029000" />
+      <workItem from="1607698718132" duration="4921000" />
+      <workItem from="1607703676000" duration="660000" />
+      <workItem from="1607704359164" duration="30000" />
+      <workItem from="1607704452000" duration="32000" />
+      <workItem from="1607780461673" duration="22104000" />
+      <workItem from="1608386024073" duration="7139000" />
+      <workItem from="1608648361606" duration="20505000" />
+      <workItem from="1608726476739" duration="12325000" />
+      <workItem from="1608792427261" duration="21065000" />
+      <workItem from="1608948568659" duration="25000" />
+      <workItem from="1609042964703" duration="4389000" />
+      <workItem from="1609244553745" duration="1895000" />
+      <workItem from="1609297365147" duration="8574000" />
+      <workItem from="1609320406376" duration="12285000" />
+      <workItem from="1609573523037" duration="3406000" />
+      <workItem from="1609680594196" duration="1544000" />
+      <workItem from="1609853779135" duration="4645000" />
+      <workItem from="1609930689151" duration="18482000" />
+      <workItem from="1610716145014" duration="3324000" />
+      <workItem from="1611322464731" duration="5319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="350" y="1" key="#Deployment" timestamp="1611325248467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="1" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1611325248467" />
+    <state x="275" y="24" key="#Options" timestamp="1609680609989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#Options/0.0.1366.728@0.0.1366.728" timestamp="1609680609989" />
+    <state x="408" y="43" key="#Test:_" timestamp="1607702692012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="43" key="#Test:_/0.0.1366.728@0.0.1366.728" timestamp="1607702692012" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611325261116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1611325261116" />
+    <state x="542" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609245594981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="542" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1609245594981" />
+    <state x="433" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607704014524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607704014524" />
+    <state x="541" y="115" key="#xdebugger.XInspectDialog" timestamp="1604830171033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="541" y="115" key="#xdebugger.XInspectDialog/0.0.1366.728@0.0.1366.728" timestamp="1604830171033" />
+    <state x="445" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607592260143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1607592260143" />
+    <state x="100" y="100" width="1142" height="526" key="DiffContextDialog" timestamp="1604831806418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1142" height="526" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1604831806418" />
+    <state x="449" y="121" key="FileChooserDialogImpl" timestamp="1607782097544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607782097544" />
+    <state width="1322" height="180" key="GridCell.Tab.0.bottom" timestamp="1611327092494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611327092494" />
+    <state width="1322" height="180" key="GridCell.Tab.0.center" timestamp="1611327092494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611327092494" />
+    <state width="1322" height="180" key="GridCell.Tab.0.left" timestamp="1611327092493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611327092493" />
+    <state width="1322" height="180" key="GridCell.Tab.0.right" timestamp="1611327092494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611327092494" />
+    <state width="1322" height="231" key="GridCell.Tab.1.bottom" timestamp="1607514662300">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="231" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607514662300" />
+    <state width="1322" height="231" key="GridCell.Tab.1.center" timestamp="1607514662300">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="231" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607514662300" />
+    <state width="1322" height="231" key="GridCell.Tab.1.left" timestamp="1607514662300">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="231" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607514662300" />
+    <state width="1322" height="231" key="GridCell.Tab.1.right" timestamp="1607514662300">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="231" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607514662300" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1607077052273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1607077052273" />
+    <state x="186" y="0" width="966" height="728" key="SettingsEditor" timestamp="1611322482829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" width="966" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611322482829" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1604807713950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1604807713950" />
+    <state x="492" y="119" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1607077068856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="119" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1366.728@0.0.1366.728" timestamp="1607077068856" />
+    <state x="393" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1611322466082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="393" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1611322466082" />
+    <state x="284" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604303389094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="284" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1604303389094" />
+    <state x="237" y="102" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607495545502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="102" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1607495545502" />
+    <state x="410" y="96" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1607782100958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="96" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1366.728@0.0.1366.728" timestamp="1607782100958" />
+    <state x="586" y="99" width="330" height="529" key="ftp.server.browser" timestamp="1608792749731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="586" y="99" width="330" height="529" key="ftp.server.browser/0.0.1366.728@0.0.1366.728" timestamp="1608792749731" />
+    <state x="433" y="240" width="672" height="288" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1605793572290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="240" width="672" height="288" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1605793572290" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609681216513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609681216513" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/认识爬虫/scrapy3/ZHURL/pipelines.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ip池/ip测试.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QMDownload$Scrapy_url.coverage" NAME="Scrapy_url Coverage Results" MODIFIED="1607507966721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ip池" />
+    <SUITE FILE_PATH="coverage/QMDownload$requeste__1_.coverage" NAME="requeste爬取图片 (1) Coverage Results" MODIFIED="1601210533399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$seleuium.coverage" NAME="seleuium微博登录 Coverage Results" MODIFIED="1605881618553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/seleuium自动化工具" />
+    <SUITE FILE_PATH="coverage/QMDownload$qq__1_.coverage" NAME="爬取qq图像 (1) Coverage Results" MODIFIED="1601527425009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$urllib3.coverage" NAME="urllib3方法 Coverage Results" MODIFIED="1601267083038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$kongl.coverage" NAME="kongl Coverage Results" MODIFIED="1604303322271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$2323.coverage" NAME="2323 Coverage Results" MODIFIED="1604295567921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$Appiumapp.coverage" NAME="Appium操作抖音app Coverage Results" MODIFIED="1607082321554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/Appium+mitmproxy" />
+    <SUITE FILE_PATH="coverage/QMDownload$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1607089166011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/Appium+mitmproxy" />
+    <SUITE FILE_PATH="coverage/QMDownload$Test__.coverage" NAME="Test:  Coverage Results" MODIFIED="1607703749777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/QMDownload$settings.coverage" NAME="settings Coverage Results" MODIFIED="1609302861639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tanzhong" />
+    <SUITE FILE_PATH="coverage/QMDownload$4.coverage" NAME="作业4 Coverage Results" MODIFIED="1604922727021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonpy" />
+    <SUITE FILE_PATH="coverage/QMDownload$xiaodigu3.coverage" NAME="xiaodigu3 Coverage Results" MODIFIED="1599315310002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/7zOC69E7C80" />
+    <SUITE FILE_PATH="coverage/QMDownload$db250__1_.coverage" NAME="db250 (1) Coverage Results" MODIFIED="1602258816400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫/scrapy1/db520/db/spiders" />
+    <SUITE FILE_PATH="coverage/QMDownload$aa.coverage" NAME="华为手机连接 Coverage Results" MODIFIED="1606535330792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/数据可视化工具" />
+    <SUITE FILE_PATH="coverage/QMDownload$hashlis.coverage" NAME="hashlis模块 Coverage Results" MODIFIED="1604632526982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/1.加密解密" />
+    <SUITE FILE_PATH="coverage/QMDownload$pillow.coverage" NAME="pillow库的应用 Coverage Results" MODIFIED="1605608975934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/6.字符验证码" />
+    <SUITE FILE_PATH="coverage/QMDownload$pip_script.coverage" NAME="pip-script Coverage Results" MODIFIED="1601022392370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Anaconda3/Scripts" />
+    <SUITE FILE_PATH="coverage/QMDownload$requeste.coverage" NAME="requeste方法 Coverage Results" MODIFIED="1601274091669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$execjs.coverage" NAME="execjs的使用 Coverage Results" MODIFIED="1604732592074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/JS渗透" />
+    <SUITE FILE_PATH="coverage/QMDownload$redis.coverage" NAME="redis储存 Coverage Results" MODIFIED="1603702772502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫/scrapy_redis2" />
+    <SUITE FILE_PATH="coverage/QMDownload$mitm_requests.coverage" NAME="mitm_requests Coverage Results" MODIFIED="1606883364013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/mitmproxy中间人攻击" />
+    <SUITE FILE_PATH="coverage/QMDownload$scrapy_Requeste.coverage" NAME="scrapy.Requeste的方法 Coverage Results" MODIFIED="1602737765712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$manage.coverage" NAME="manage Coverage Results" MODIFIED="1611327092441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QMDownload$password.coverage" NAME="password Coverage Results" MODIFIED="1605786129605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/7.点触验证码/py" />
+    <SUITE FILE_PATH="coverage/QMDownload$12306.coverage" NAME="12306登录 Coverage Results" MODIFIED="1605882006890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/7.点触验证码" />
+    <SUITE FILE_PATH="coverage/QMDownload$6.coverage" NAME="作业6 Coverage Results" MODIFIED="1604922785754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonpy" />
+    <SUITE FILE_PATH="coverage/QMDownload$requeset_ab_dts.coverage" NAME="requeset_ab_dts Coverage Results" MODIFIED="1607479690683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/潭州课堂项目" />
+    <SUITE FILE_PATH="coverage/QMDownload$444.coverage" NAME="444 Coverage Results" MODIFIED="1606389634209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/4.JS渗透3" />
+    <SUITE FILE_PATH="coverage/QMDownload$xpaths.coverage" NAME="爬取豆瓣电影评分，xpaths Coverage Results" MODIFIED="1605782841990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$urllib.coverage" NAME="urllib方法 Coverage Results" MODIFIED="1601259977655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$bd_translate.coverage" NAME="bd_translate Coverage Results" MODIFIED="1604834604466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/JS渗透.2" />
+    <SUITE FILE_PATH="coverage/QMDownload$text.coverage" NAME="text Coverage Results" MODIFIED="1605710504210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Documents/Tencent Files/1406952554/FileRecv" />
+    <SUITE FILE_PATH="coverage/QMDownload$urllib__1_.coverage" NAME="urllib方法 (1) Coverage Results" MODIFIED="1601044855148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$img.coverage" NAME="img Coverage Results" MODIFIED="1605943407241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/8.滑动验证码" />
+    <SUITE FILE_PATH="coverage/QMDownload$__1_.coverage" NAME="华为手机连接 (1) Coverage Results" MODIFIED="1606543997791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/Appium自动化工具" />
+    <SUITE FILE_PATH="coverage/QMDownload$ip.coverage" NAME="ip测试 Coverage Results" MODIFIED="1607509310851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ip池" />
+    <SUITE FILE_PATH="coverage/QMDownload$scrapy.coverage" NAME="scrapy选择器 Coverage Results" MODIFIED="1602375820210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$main.coverage" NAME="main Coverage Results" MODIFIED="1606405158844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Documents/Tencent Files/1406952554/FileRecv/新建文件夹/flask_view" />
+    <SUITE FILE_PATH="coverage/QMDownload$xdg3.coverage" NAME="xdg3 Coverage Results" MODIFIED="1607410970490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Documents/Tencent Files/2842855927/FileRecv" />
+    <SUITE FILE_PATH="coverage/QMDownload$base64.coverage" NAME="base64模块 Coverage Results" MODIFIED="1604631324239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/1.加密解密" />
+    <SUITE FILE_PATH="coverage/QMDownload$111.coverage" NAME="111 Coverage Results" MODIFIED="1602759183609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QMDownload$soup.coverage" NAME="soup练习 Coverage Results" MODIFIED="1602036030050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$models.coverage" NAME="models Coverage Results" MODIFIED="1608782214519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/look" />
+    <SUITE FILE_PATH="coverage/QMDownload$qqimg.coverage" NAME="qqimg Coverage Results" MODIFIED="1606358380720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/qqtn/qqtn/spiders" />
+    <SUITE FILE_PATH="coverage/QMDownload$.coverage" NAME="数据库 Coverage Results" MODIFIED="1607514563098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ip池" />
+    <SUITE FILE_PATH="coverage/QMDownload$58head.coverage" NAME="58head Coverage Results" MODIFIED="1606355646884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/9.字体反爬" />
+    <SUITE FILE_PATH="coverage/QMDownload$mitm_response.coverage" NAME="mitm_response Coverage Results" MODIFIED="1606884879897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/mitmproxy中间人攻击" />
+    <SUITE FILE_PATH="coverage/QMDownload$mitm_response__1_.coverage" NAME="mitm_response (1) Coverage Results" MODIFIED="1607082187651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/Appium+mitmproxy" />
+    <SUITE FILE_PATH="coverage/QMDownload$db250.coverage" NAME="db250 Coverage Results" MODIFIED="1602068095008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫/scrapy1" />
+    <SUITE FILE_PATH="coverage/QMDownload$58.coverage" NAME="58同城网 Coverage Results" MODIFIED="1606445642527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/9.字体反爬" />
+    <SUITE FILE_PATH="coverage/QMDownload$800.coverage" NAME="800 Coverage Results" MODIFIED="1605610333117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级" />
+    <SUITE FILE_PATH="coverage/QMDownload$Ree.coverage" NAME="Ree Coverage Results" MODIFIED="1597920994916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonpy" />
+    <SUITE FILE_PATH="coverage/QMDownload$ZBJlogin.coverage" NAME="ZBJlogin Coverage Results" MODIFIED="1606446368737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫高级/8.滑动验证码" />
+    <SUITE FILE_PATH="coverage/QMDownload$music.coverage" NAME="music Coverage Results" MODIFIED="1604018819340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Documents/Tencent Files/1406952554/FileRecv" />
+    <SUITE FILE_PATH="coverage/QMDownload$123.coverage" NAME="123 Coverage Results" MODIFIED="1597920925725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonpy" />
+    <SUITE FILE_PATH="coverage/QMDownload$pip_script__1_.coverage" NAME="pip-script (1) Coverage Results" MODIFIED="1601027026299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36/Scripts" />
+    <SUITE FILE_PATH="coverage/QMDownload$vip.coverage" NAME="vip视频下载 Coverage Results" MODIFIED="1607480908093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/潭州课堂项目" />
+    <SUITE FILE_PATH="coverage/QMDownload$5.coverage" NAME="作业5 Coverage Results" MODIFIED="1599876514110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonpy" />
+    <SUITE FILE_PATH="coverage/QMDownload$session.coverage" NAME="session方法 Coverage Results" MODIFIED="1601282665598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/认识爬虫" />
+    <SUITE FILE_PATH="coverage/QMDownload$wy_comment.coverage" NAME="wy_comment Coverage Results" MODIFIED="1605329592285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Documents/Tencent Files/1406952554/FileRecv" />
+  </component>
+</project>

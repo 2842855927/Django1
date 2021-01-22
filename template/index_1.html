@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+这是没有处理的变量:{{ test }}<br>
+默认变量:{{ xx|default:'我是谁' }}<br>
+两个数字相加:{{ num1|add:num2 }}<br>
+两个字符串变量相加:{{ test|add:num1 }}<br>
+返回列表第一个值:{{ lt|first }}<br>
+返回列表最后一个值:{{ lt|last }}<br>
+现在的时间日期:{{ now|date:'Y/m/d/H:i:s'}}<br>
+字符串的join用法:{{ lt|join:"xxx" }}<br>
+查看字符串的长度:{{ test|length }}<br>
+字符串的长度是否等于14:{{ test|length_is:14 }}<br>
+首字母大写:{{ test|capfirst }}<br>
+
+</body>
+</html>
